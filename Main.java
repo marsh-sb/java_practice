@@ -97,3 +97,9 @@ class Main2 {
     System.out.println("BMIは" + bmi + "です");
   }
 }
+
+class Main3 {
+  public static void main(String[] args) {
+    System.out.println("Hello Java");
+  }
+}
