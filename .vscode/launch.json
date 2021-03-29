@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Main5",
+      "request": "launch",
+      "mainClass": "Main5",
+      "projectName": "Java_21ec79ca"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main4",
+      "request": "launch",
+      "mainClass": "Main4",
+      "projectName": "Java_21ec79ca"
+    },
+    {
+      "type": "java",
+      "name": "Launch Boolean",
+      "request": "launch",
+      "mainClass": "Boolean",
+      "projectName": "Java_21ec79ca"
+    },
+    {
+      "type": "java",
+      "name": "Launch b",
+      "request": "launch",
+      "mainClass": "b",
+      "projectName": "Java_21ec79ca"
+    },
+    {
+      "type": "java",
+      "name": "Launch Sub",
+      "request": "launch",
+      "mainClass": "Sub",
+      "projectName": "Java_21ec79ca"
+    },
+    {
+      "type": "java",
       "name": "Launch Main3",
       "request": "launch",
       "mainClass": "Main3",
